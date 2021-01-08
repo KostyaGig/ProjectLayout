@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/news"
+        android:title="@string/news_text"
+        android:icon="@drawable/ic_profiel"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/main"
+        android:title="@string/main_text"
+        android:icon="@drawable/ic_profiel"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile_text"
+        android:icon="@drawable/ic_profiel"
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CityLayout</string>
+    <string name="news_text">Новости</string>
+    <string name="profile_text">Профиль</string>
+    <string name="main_text">Основное</string>
+    <string name="main_tv_text">Добавить основной текст</string>
+    <string name="data_tv">06.11.2020</string>
+    <string name="time_tv">16:04</string>
+</resources>
